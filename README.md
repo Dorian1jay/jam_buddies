@@ -8,4 +8,4 @@ Documentation for jam buddies..
 3. Usage guide to setup locally
 
 The formatting of this is markdown - google markdown for instructions.
-
+some change here
