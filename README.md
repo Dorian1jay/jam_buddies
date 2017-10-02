@@ -1,6 +1,7 @@
 # jam_buddies
 
-Documentation for jam buddies..
+Documentation for jam buddies.
+
 
 
 1. Want to give your overview of project
